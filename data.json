@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "feeWallet",
-      "value": "0x3Fa53d28C63eBA18a6dc6e924cf1AF8DaA279DA2"
+      "value": "0x4664137b980187256cB24c41a6c98e8bd669D3b3"
     },
     {
       "id": 2,
@@ -47,7 +47,7 @@
     {
       "id": 10,
       "name": "telegram",
-      "value": "https://t.me/ZeroxFactory"
+      "value": "https://t.me/erc20bep20"
     }
     
   ]
